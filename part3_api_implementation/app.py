@@ -3,10 +3,9 @@
 #python app.py
 
 
----
 
 ## 🐍 part3_api_implementation/app.py
-```python
+
 from flask import Flask, jsonify
 from datetime import datetime, timedelta
 
